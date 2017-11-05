@@ -1,0 +1,48 @@
+.red {
+	height:300px;
+	width: 300px; 
+	background-color: #FC0D1B;	
+}
+
+.violet {
+	height:200px;
+	width: 200px; 
+	background-color: #7F0F7E;
+	position: absolute;
+	margin: 50px;
+}
+
+.yellow {
+	height: 100px;
+	width: 100px;
+	background-color: #FFFD38;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+
+.blue {
+	height: 300px;
+	width: 300px;
+	margin-top: 50px;
+	position: relative;
+	background-color: #0B24FB;	 
+}
+
+.green {
+	height:148px;
+	width: 151px; 
+	background-color: #0F7F12;
+	position: absolute;
+	margin: 76px;
+}
+
+.black {
+	height: 75px;
+	width: 76px;
+	background-color: #000;
+	position: absolute;
+}
+
+
